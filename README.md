@@ -1,11 +1,10 @@
-## Hi  👋
+## Hi 👋
 
+I’m glad you’re here! Here are a few things about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying at Fatec Ipiranga.
-- 🌱 I’m currently learning Systems Development and Analysis.
-- ⚡ Fun fact: I am an electronics technician.
+🔭 I’m currently a student at Fatec Ipiranga, pursuing a degree in Systems Development and Analysis.
+🌱 I’m passionate about learning new technologies and improving my programming skills.
+⚡ Fun fact: I am also a certified electronics technician
 
 ##
 
